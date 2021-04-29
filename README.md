@@ -2,7 +2,7 @@
 ## Hi there 👋
 
   
-### My name is Maria :ru: 🇫🇷 :FI: and I'm in the beginning of my exciting career- and life-changing journey towards becoming a Cloud Developer!
+### My name is Maria and I'm in the beginning of my exciting career- and life-changing journey towards becoming a Cloud Developer!
 
  - 🔭 I’m currently working on Azure and Terraform
 
@@ -17,6 +17,4 @@
 
 <br />
 
-
-### Languages and tools
 ![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarriaMarria)
