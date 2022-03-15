@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning programming
 
-- 💬 2021 goals: LEARN A LOT, do more yoga, keep positive...and 100000 others :wink:
+- 💬 2022 goals: LEARN A LOT, do more yoga, keep positive...and 100000 others :wink:
 
 - 😄 Pronouns: So before you run out and change the world, ask yourself, "What do you really want?
 
